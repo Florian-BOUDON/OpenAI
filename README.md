@@ -16,7 +16,7 @@ D'autres modèle sont disponible [lien vers les modèles OpenAI](https://platfor
   2) Création d'un script composé d'une class permettant de générer des conversations
   3) Cas d'usages dans un notebook jupyter
           
-  Si quelqu'un se sent motiver pour continuer le projet avec moi ne pas hésiter à me joindre sur mon mail privé:       
+  Si quelqu'un se sent motivé pour continuer le projet avec moi ne pas hésiter à me joindre sur mon mail privé:       
   fb.boudon@gmail.com
 
 Les prochaines étapes sont : 
