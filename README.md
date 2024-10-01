@@ -1,8 +1,8 @@
 # OpenAI : intégration d'une IA conversationnelle
         
 Je montre comment créer une class d'objet me permettant d'utiliser chatgpt d'OpenAI en utiliser l'API.      
-J'utilise le modèle gpt-4o-mini, faible en utilisation de token.       
-Il n'est pas possible d'avoir accès aux assistants, seulement:
+J'utilise le modèle "gpt-4o-mini", faible en utilisation de token.       
+Il n'est pas possible d'avoir accès aux assistants gpt, seulement:
 - Assistant conversationnel (LLM)      
 - Vision             
         
